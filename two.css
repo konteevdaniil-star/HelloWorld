@@ -154,8 +154,8 @@
         }
 
         .profile-img {
-            width: 200px;
-            height: 200px;
+            width: 400px;
+            height: 400px;
             border-radius: 50%;
             border: 5px solid var(--accent-color);
             margin-bottom: 2rem;
@@ -380,3 +380,4 @@
             text-align: center;
             border-top: 1px solid var(--border-color);
         }
+
